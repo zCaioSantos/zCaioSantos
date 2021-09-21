@@ -1,9 +1,7 @@
-<p align="center"><img width="250" src="https://media.giphy.com/media/e2mgnBFRQVZinZusyS/giphy.gif?cid=790b7611019d6d9f549da654e5125439d027fc8881ce259b&rid=giphy.gif&ct=s"></p>
 
- <div>
-  <a href="https://github.com/zCaioSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zCaioSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zCaioSantos&layout=compact&langs_count=7&theme=dracula"/>
+
+<div style="display: inline_block" align="center">
+  <p><img width="250" src="https://media.giphy.com/media/e2mgnBFRQVZinZusyS/giphy.gif?cid=790b7611019d6d9f549da654e5125439d027fc8881ce259b&rid=giphy.gif&ct=s"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=zCaioSantos&show_icons=true&theme=dracula&include_all_commits=true"></p>
 </div>
 
 <br>
