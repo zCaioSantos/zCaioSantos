@@ -1,10 +1,5 @@
-<p align="center">
-  <img width="250" src="https://media.giphy.com/media/e2mgnBFRQVZinZusyS/giphy.gif?cid=790b7611019d6d9f549da654e5125439d027fc8881ce259b&rid=giphy.gif&ct=s">
-</p>
-
-<br>
-<div align="center">
-  <img style="float: left" height="180em" src="https://github-readme-stats.vercel.app/api?username=zCaioSantos&show_icons=true&theme=dracula&include_all_commits=true">
+<div style="display: inline_block" align="center">
+  <p><img width="250" src="https://media.giphy.com/media/e2mgnBFRQVZinZusyS/giphy.gif?cid=790b7611019d6d9f549da654e5125439d027fc8881ce259b&rid=giphy.gif&ct=s"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=zCaioSantos&show_icons=true&theme=dracula&include_all_commits=true"></p>
 </div>
 
 <br>
@@ -18,9 +13,9 @@
 
 <br>
 <div style="display: inline_block" align="center">
-  <a href="https://discord.gg/cWvUzdSaQz" target="_blank"><img align="center" alt="zCaioSantos - Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  <a href="https://steamcommunity.com/profiles/76561199092272607/" target="_blank"><img align="center" alt="zCaioSantos - Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-  <a href="https://www.instagram.com/caiozf/" target="_blank"><img align="center" alt="zCaioSantos - Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <em><a href="https://discord.gg/cWvUzdSaQz" target="_blank"><img align="center" alt="zCaioSantos - Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></em>
+  <em><a href="https://steamcommunity.com/profiles/76561199092272607/" target="_blank"><img align="center" alt="zCaioSantos - Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></em>
+  <em><a href="https://www.instagram.com/caiozf/" target="_blank"><img align="center" alt="zCaioSantos - Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></em>
 </div>
     
  
