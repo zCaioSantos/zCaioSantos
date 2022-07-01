@@ -1,38 +1,79 @@
+<h1 align="left">Caio Santos</h1>
+
+<br clear="both">
+
+<img align="right" height="165" src="https://user-images.githubusercontent.com/81544166/176923632-f1f84d8e-cde0-4d6d-9ce7-fd4a060e3628.gif"  />
 
 
-<div style="display: inline_block" align="center">
-  <p><img width="250" src="https://media.giphy.com/media/e2mgnBFRQVZinZusyS/giphy.gif?cid=790b7611019d6d9f549da654e5125439d027fc8881ce259b&rid=giphy.gif&ct=s"></p>
-<!--   <p><img width="250" src="https://media.giphy.com/media/e2mgnBFRQVZinZusyS/giphy.gif?cid=790b7611019d6d9f549da654e5125439d027fc8881ce259b&rid=giphy.gif&ct=s"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=zCaioSantos&show_icons=true&theme=dracula&include_all_commits=true"></p> -->
+
+<h4 align="left">I am studying Systems Analysis and Development at the SENAC University Center.  I'm a great Technology enthusiast and I am always seeking to learn more about this universe that fascinates me so much. <br><br>💠 Front-End Developer<br>💠 VFX Editor<br>💠 Web Designer</h4>
+
+###
+
+<br clear="both">
+
+<h1 align="left">Skills</h1>
+
+###
+
+<h4 align="left">Programming Languages</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 </div>
 
-<br>
-<div style="display: inline_block" align="center">
-  <img align="center" alt="zCaioSantos - Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="zCaioSantos - Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="zCaioSantos - JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="zCaioSantos - Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="zCaioSantos - Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="zCaioSantos - Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="zCaioSantos - ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="zCaioSantos - NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</div>
-<br>
-<div style="display: inline_block" align="center">
-  <em><a href="https://discord.gg/cWvUzdSaQz" target="_blank"><img align="center" alt="zCaioSantos - Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></em>
-  <em><a href="https://steamcommunity.com/profiles/76561199092272607/" target="_blank"><img align="center" alt="zCaioSantos - Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></em>
-  <em><a href="https://www.instagram.com/caiozf/" target="_blank"><img align="center" alt="zCaioSantos - Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></em>
+###
+
+<h4 align="left">Frameworks & Libraries</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" width="52" alt="electron logo"  />
 </div>
 
-<br>
-<div style="display: inline_block" align="center">
-  <em><a><img align="center" alt="zCaioSantos - Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg"></em>
-  <em><img align="center" alt="zCaioSantos - After Effects" src="https://aleen42.github.io/badges/src/after_effects.svg"></em>
-  <em><img align="center" alt="zCaioSantos - Illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg"></em>
-  <em><img align="center" alt="zCaioSantos - Premiere" src="https://aleen42.github.io/badges/src/premiere.svg"></em>
-</div>
-  
-    
-<br>
-    
+###
 
-     
+<h4 align="left">Software</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" width="52" alt="aftereffects logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="52" alt="illustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" width="52" alt="premierepro logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+</div>
+
+###
+
+<h1 align="left">Social</h1>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/zcaiosantos/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/caiozf/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
