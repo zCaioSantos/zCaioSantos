@@ -2,7 +2,7 @@
 
 <img align="right" height="165" src="https://user-images.githubusercontent.com/81544166/176923632-f1f84d8e-cde0-4d6d-9ce7-fd4a060e3628.gif"  />
 
-<p align="left">I am studying Systems Analysis and Development at the SENAC University Center.  I'm a great Technology enthusiast and I am always seeking to learn more about this universe that fascinates me so much. <br><br>💠 Front-End Developer<br>💠 VFX Editor<br>💠 Web Designer</p>
+<p align="left">I am studying Systems Analysis and Development at the SENAC University Center.  I'm a great Technology enthusiast and I am always seeking to learn more about this universe that fascinates me so much. <a href="https://github.com/zCaioSantos/zCaioSantos/files/9033911/Curriculo.-.Caio.Fernandes.dos.Santos.pdf">Curriculum Download.</a> <br><br>💠 Front-End Developer<br>💠 VFX Editor<br>💠 Web Designer</p>
 
 <h1 align="left">Skills</h1>
 
