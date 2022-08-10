@@ -45,12 +45,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" width="52" alt="aftereffects logo" title="Adobe After Effects"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo" title="Adobe Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="52" alt="illustrator logo" title="Adobe Illustrator"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" width="52" alt="premierepro logo" title="Adobe Premiere Pro" />
+  <img src="https://user-images.githubusercontent.com/81544166/183937497-24de2d00-0fd2-449f-b688-de7c64fda52c.png" height="40" width="52" alt="aftereffects logo" title="Adobe After Effects"  />
+  <img src="https://user-images.githubusercontent.com/81544166/183937501-30bbbec7-deea-483e-805b-0cce07855818.png" height="40" width="52" alt="photoshop logo" title="Adobe Photoshop" />
+  <img src="https://user-images.githubusercontent.com/81544166/183937502-4988a4fd-dc13-4047-9b17-14dadef9c4aa.png" height="40" width="52" alt="illustrator logo" title="Adobe Illustrator"  />
+  <img src="https://user-images.githubusercontent.com/81544166/183937505-7f5f72b2-810a-42db-8e1e-51f72cf4301f.png" height="40" width="52" alt="premierepro logo" title="Adobe Premiere Pro" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo" title="VSCode" />
+  <img src="https://user-images.githubusercontent.com/81544166/183931538-8f3e8493-c314-4816-81b3-0cd902357b8a.png" height="40" width="52" alt="Blender logo" title="Blender3D" />
 </div>
 
 ###
