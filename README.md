@@ -3,11 +3,11 @@
 <img align="right" height="165" src="https://user-images.githubusercontent.com/81544166/176923632-f1f84d8e-cde0-4d6d-9ce7-fd4a060e3628.gif" />
 
 <p align="left">
-Sou Desenvolvedor Full Stack Pleno, me especializando em <strong>.NET</strong> e <strong>Angular</strong>. Atualmente, trabalho com desenvolvimento full stack, aplicando práticas de <strong>Clean Code</strong> e princípios <strong>SOLID</strong> em projetos corporativos.<br><br>
-Além da programação, possuo sólida experiência em <strong>design</strong> e <strong>VFX</strong>, formado pela <strong>Escola SAGA</strong> (2018). 🎓 Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> pelo Centro Universitário SENAC.
+Sou Desenvolvedor <strong>Full Stack Pleno</strong>, me especializando em <strong>.NET</strong> e <strong>Angular</strong>. Atualmente, trabalho com desenvolvimento full stack, aplicando práticas de <strong>Clean Code</strong> e princípios <strong>SOLID</strong> em projetos corporativos.<br><br> Além da programação, possuo sólida experiência em <strong>design</strong> e <strong>VFX</strong>, formado pela <strong>Escola SAGA</strong> (2018).<br>
+<br>🎓 Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> pelo Centro Universitário SENAC.
 </p>
 
----
+
 
 ## 🚀 Stack Atual
 
